@@ -3,4 +3,9 @@ Machine Learning Algorithmus der eine kleine Auswahl an deutschen Straßenschild
 
 # Konfiguration
 
+Benötigte Dependencies:
 
+- OpenCV
+- JupyterLabs
+
+Installation mit `pip install -r requirements.txt`
