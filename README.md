@@ -26,4 +26,9 @@ Die Straßenschilder werden mit Hilfe von Cascade Classifiers entdeckt. Die Umse
 2. Es werden noch 2 weitere Dateien pos.txt und neg.txt benötigt.
    1. `pos.txt`: Enthält Pfade zu Bildern, sowie die Anzahl an enhaltenen Objekten sowie die Koordinaten zu den Objekten. Wird mit dem Tool opencv_annotations erstellt
    2. `neg.txt`: Enthält Pfade zu Bildern, welche keine Objekte enthalten, die man sucht. Wird mit dem Skript generate_neg_file.py erstellt, indem das Skript mit einem Pfad zu einem Verzeichnis ausgeführt wird.
+3. Vektor-Datei erstellen: `opencv_createsamples.exe -info pos.txt -w 24 -h 24 num 1000 -vec pos.vec`
+   - `-info pos.txt`: Die Datei mit allen Pfaden zu den Bildern + Markierungen in den Bildern
+   - `-w 24 -h 24` ist die mindeste Größe des Suchfensters. Dieser Wert sollte mindestens so groß wie die kleinste Markierung sein
+   - `num 1000`: Dieser Wert muss größer als die Anzahl aller Markierungen sein
+   - `-vec pos.vec`: Wo die Vektor-Datei gespeichert wird
 
