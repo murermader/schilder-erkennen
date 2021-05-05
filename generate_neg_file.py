@@ -29,7 +29,11 @@ def main():
     os.chdir(parent_dir)
 
     # Datei erst entfernen, bevor wir eine neue anlegen
-    os.remove("neg.txt")
+    try:
+        os.remove("neg.txt")
+    except:
+        print("Datei neg.txt wird neu angelegt")
+       
     neg_file = open("neg.txt", "a")
 
     for file in os.listdir(images_dir_name):
