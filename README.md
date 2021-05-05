@@ -32,3 +32,5 @@ Die Straßenschilder werden mit Hilfe von Cascade Classifiers entdeckt. Die Umse
    - `num 1000`: Dieser Wert muss größer als die Anzahl aller Markierungen sein
    - `-vec pos.vec`: Wo die Vektor-Datei gespeichert wird
 
+4. Cascade Classifier trainieren: `opencv_traincascade.exe -data cascade/ -vec pos.vec -bg neg.txt -w 24 -h 24 -numPos 100 -numNeg 200 -numStages 10`
+
