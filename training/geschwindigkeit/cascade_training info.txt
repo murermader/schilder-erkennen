@@ -286,3 +286,5 @@ Precalculation time: 0.425
 +----+---------+---------+
 END>
 Training until now has taken 0 days 0 hours 0 minutes 36 seconds.
+
+Model cascade_2 könnte overfitted sein, weil die acceptanceRatio in der 9. Stage zu viele Stellen nach dem Komma hat. 
