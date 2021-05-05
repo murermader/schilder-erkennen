@@ -1,0 +1,138 @@
+positives\geschwindigkeit_1.JPEG 1 426 533 666 627
+positives\geschwindigkeit_10.JPEG 1 696 1071 77 79
+positives\geschwindigkeit_100.JPEG 2 1571 781 83 81 638 773 65 70
+positives\geschwindigkeit_101.JPEG 2 518 671 69 75 1509 684 85 81
+positives\geschwindigkeit_102.JPEG 2 1689 719 93 95 616 728 72 82
+positives\geschwindigkeit_103.JPEG 2 600 828 80 80 1748 846 98 99
+positives\geschwindigkeit_104.JPEG 2 450 742 79 88 1675 698 109 97
+positives\geschwindigkeit_105.JPEG 2 442 682 88 92 1775 634 133 116
+positives\geschwindigkeit_106.JPEG 2 401 699 90 104 1833 649 136 123
+positives\geschwindigkeit_107.JPEG 1 372 621 89 110
+positives\geschwindigkeit_108.JPEG 1 880 837 45 44
+positives\geschwindigkeit_109.JPEG 1 653 1071 45 48
+positives\geschwindigkeit_11.JPEG 1 641 1046 84 85
+positives\geschwindigkeit_110.JPEG 1 977 1086 49 51
+positives\geschwindigkeit_111.JPEG 1 1066 1103 57 55
+positives\geschwindigkeit_112.JPEG 1 733 922 59 57
+positives\geschwindigkeit_113.JPEG 1 757 854 62 63
+positives\geschwindigkeit_114.JPEG 1 705 907 67 65
+positives\geschwindigkeit_115.JPEG 1 756 921 69 63
+positives\geschwindigkeit_116.JPEG 1 706 941 73 74
+positives\geschwindigkeit_117.JPEG 1 734 931 80 78
+positives\geschwindigkeit_118.JPEG 1 583 871 91 83
+positives\geschwindigkeit_119.JPEG 1 864 952 92 92
+positives\geschwindigkeit_12.JPEG 1 713 852 97 94
+positives\geschwindigkeit_120.JPEG 1 931 743 154 158
+positives\geschwindigkeit_121.JPEG 1 651 751 176 162
+positives\geschwindigkeit_122.JPEG 1 840 810 179 173
+positives\geschwindigkeit_123.JPEG 1 621 610 198 189
+positives\geschwindigkeit_124.JPEG 1 647 675 207 207
+positives\geschwindigkeit_125.JPEG 1 584 609 227 207
+positives\geschwindigkeit_126.JPEG 0
+positives\geschwindigkeit_127.JPEG 0
+positives\geschwindigkeit_128.JPEG 0
+positives\geschwindigkeit_129.JPEG 0
+positives\geschwindigkeit_13.JPEG 1 739 953 58 54
+positives\geschwindigkeit_130.JPEG 1 591 893 132 132
+positives\geschwindigkeit_131.JPEG 1 590 816 142 141
+positives\geschwindigkeit_132.JPEG 1 601 784 161 156
+positives\geschwindigkeit_133.JPEG 1 548 842 183 187
+positives\geschwindigkeit_134.JPEG 1 76 471 249 250
+positives\geschwindigkeit_135.JPEG 1 332 582 270 280
+positives\geschwindigkeit_136.JPEG 1 350 493 329 307
+positives\geschwindigkeit_137.JPEG 1 515 245 394 391
+positives\geschwindigkeit_138.JPEG 1 395 611 466 452
+positives\geschwindigkeit_14.JPEG 1 693 756 135 128
+positives\geschwindigkeit_15.JPEG 1 725 996 145 146
+positives\geschwindigkeit_16.JPEG 1 571 847 177 166
+positives\geschwindigkeit_17.JPEG 1 548 951 203 203
+positives\geschwindigkeit_18.JPEG 1 739 789 274 265
+positives\geschwindigkeit_19.JPEG 1 373 443 365 350
+positives\geschwindigkeit_2.JPEG 1 371 48 772 926
+positives\geschwindigkeit_20.JPEG 1 205 504 572 563
+positives\geschwindigkeit_21.JPEG 1 702 872 87 86
+positives\geschwindigkeit_22.JPEG 1 641 996 96 95
+positives\geschwindigkeit_23.JPEG 1 687 879 105 102
+positives\geschwindigkeit_24.JPEG 1 638 847 126 120
+positives\geschwindigkeit_25.JPEG 1 541 755 148 138
+positives\geschwindigkeit_26.JPEG 1 583 713 176 169
+positives\geschwindigkeit_27.JPEG 1 623 726 198 194
+positives\geschwindigkeit_28.JPEG 1 571 689 239 237
+positives\geschwindigkeit_29.JPEG 1 238 697 295 279
+positives\geschwindigkeit_3.JPEG 1 188 175 626 683
+positives\geschwindigkeit_30.JPEG 1 387 496 368 380
+positives\geschwindigkeit_31.JPEG 1 366 448 441 441
+positives\geschwindigkeit_32.JPEG 1 206 297 551 571
+positives\geschwindigkeit_33.JPEG 1 662 924 44 45
+positives\geschwindigkeit_34.JPEG 1 772 1062 47 46
+positives\geschwindigkeit_35.JPEG 1 695 1079 49 47
+positives\geschwindigkeit_36.JPEG 1 704 1028 49 51
+positives\geschwindigkeit_37.JPEG 1 814 994 58 58
+positives\geschwindigkeit_38.JPEG 1 868 1023 64 62
+positives\geschwindigkeit_39.JPEG 1 763 1009 68 67
+positives\geschwindigkeit_4.JPEG 1 683 384 576 575
+positives\geschwindigkeit_40.JPEG 1 779 946 70 72
+positives\geschwindigkeit_41.JPEG 1 756 886 87 86
+positives\geschwindigkeit_42.JPEG 1 755 1061 95 90
+positives\geschwindigkeit_43.JPEG 1 734 1084 109 107
+positives\geschwindigkeit_44.JPEG 1 648 1019 124 121
+positives\geschwindigkeit_45.JPEG 1 688 990 148 147
+positives\geschwindigkeit_46.JPEG 1 721 935 171 166
+positives\geschwindigkeit_47.JPEG 1 542 931 207 201
+positives\geschwindigkeit_48.JPEG 1 553 945 251 257
+positives\geschwindigkeit_49.JPEG 1 608 919 301 307
+positives\geschwindigkeit_5.JPEG 1 420 453 548 480
+positives\geschwindigkeit_50.JPEG 1 511 805 392 399
+positives\geschwindigkeit_51.JPEG 1 782 1053 176 180
+positives\geschwindigkeit_52.JPEG 1 767 870 201 200
+positives\geschwindigkeit_53.JPEG 1 855 910 230 224
+positives\geschwindigkeit_54.JPEG 1 863 946 259 267
+positives\geschwindigkeit_55.JPEG 1 821 860 288 294
+positives\geschwindigkeit_56.JPEG 1 758 801 339 354
+positives\geschwindigkeit_57.JPEG 1 735 807 395 424
+positives\geschwindigkeit_58.JPEG 1 669 723 509 557
+positives\geschwindigkeit_59.JPEG 1 562 991 88 90
+positives\geschwindigkeit_6.JPEG 1 528 330 454 441
+positives\geschwindigkeit_60.JPEG 1 536 988 97 94
+positives\geschwindigkeit_61.JPEG 1 403 931 99 97
+positives\geschwindigkeit_62.JPEG 1 287 930 105 97
+positives\geschwindigkeit_63.JPEG 1 134 882 114 107
+positives\geschwindigkeit_64.JPEG 1 718 938 122 119
+positives\geschwindigkeit_65.JPEG 1 788 819 135 131
+positives\geschwindigkeit_66.JPEG 1 780 948 148 141
+positives\geschwindigkeit_67.JPEG 1 615 893 164 156
+positives\geschwindigkeit_68.JPEG 1 665 844 198 193
+positives\geschwindigkeit_69.JPEG 1 637 990 222 222
+positives\geschwindigkeit_7.JPEG 1 595 313 401 393
+positives\geschwindigkeit_70.JPEG 1 571 900 279 280
+positives\geschwindigkeit_71.JPEG 1 519 823 333 338
+positives\geschwindigkeit_72.JPEG 1 457 740 410 428
+positives\geschwindigkeit_73.JPEG 1 494 741 468 510
+positives\geschwindigkeit_74.JPEG 1 818 930 49 51
+positives\geschwindigkeit_75.JPEG 1 776 865 50 50
+positives\geschwindigkeit_76.JPEG 1 843 892 55 54
+positives\geschwindigkeit_77.JPEG 1 852 1041 61 59
+positives\geschwindigkeit_78.JPEG 1 850 1046 66 61
+positives\geschwindigkeit_79.JPEG 1 768 927 71 73
+positives\geschwindigkeit_8.JPEG 1 710 727 321 314
+positives\geschwindigkeit_80.JPEG 1 806 981 81 80
+positives\geschwindigkeit_81.JPEG 1 1029 905 92 90
+positives\geschwindigkeit_82.JPEG 1 960 907 116 112
+positives\geschwindigkeit_83.JPEG 1 513 831 128 124
+positives\geschwindigkeit_84.JPEG 1 202 731 155 159
+positives\geschwindigkeit_85.JPEG 1 684 781 186 182
+positives\geschwindigkeit_86.JPEG 1 807 715 225 223
+positives\geschwindigkeit_87.JPEG 1 675 310 307 313
+positives\geschwindigkeit_88.JPEG 2 908 778 35 37 1372 762 36 35
+positives\geschwindigkeit_89.JPEG 2 850 720 36 36 1333 710 36 37
+positives\geschwindigkeit_9.JPEG 1 734 1220 73 74
+positives\geschwindigkeit_90.JPEG 2 974 782 41 42 1527 765 42 43
+positives\geschwindigkeit_91.JPEG 2 830 678 42 45 1408 675 45 45
+positives\geschwindigkeit_92.JPEG 2 844 641 41 44 1445 627 51 46
+positives\geschwindigkeit_93.JPEG 2 881 671 47 49 1519 652 49 45
+positives\geschwindigkeit_94.JPEG 2 884 705 48 48 1556 694 52 50
+positives\geschwindigkeit_95.JPEG 2 985 650 51 49 1704 646 58 54
+positives\geschwindigkeit_96.JPEG 2 931 619 49 50 1680 604 60 56
+positives\geschwindigkeit_97.JPEG 2 1122 874 51 54 1941 869 68 62
+positives\geschwindigkeit_98.JPEG 1 1177 763 55 60
+positives\geschwindigkeit_99.JPEG 2 882 704 60 58 1772 680 77 68
