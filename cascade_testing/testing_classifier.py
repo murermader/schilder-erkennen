@@ -7,6 +7,7 @@ from vision import Vision
 
 # Generierte XML laden
 cascade_geschwindigkeit = cv.CascadeClassifier("../training/geschwindigkeit/cascade/cascade.xml")
+cascade_stop = cv.CascadeClassifier("cascade_stopsign.xml")
 vision_geschwindigkeit = Vision(None)
 
 with mss() as sct:
@@ -26,6 +27,7 @@ with mss() as sct:
     try:
         # Objekterkennung durchführen
         rectangles = cascade_geschwindigkeit.detectMultiScale(screenshot, minNeighbors=3)
+        # rectangles = cascade_stop.detectMultiScale(screenshot, minNeighbors=3)
     except:
         print("Aus irgendeinem Grund funktioniert diese Methode nur, wenn man sich im selben Verzeichnis befindet")
         sys.exit(-1)
