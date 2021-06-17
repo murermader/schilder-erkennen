@@ -18,9 +18,12 @@ with open(csv_file) as csvDataFile:
     with open("pos.txt", "a") as file:
         for row in csvReader:
             filename = row[0][:-4]
-            x1 = row[3]
-            y1 = row[4]
-            x2 = row[5]
-            y2 = row[6]
+            x1 = int(row[3])
+            y1 = int(row[4])
+            x2 = int(row[5])
+            y2 = int(row[6])
+
+            width = x2 - x1
+            height = y2 - y1
             
-            file.write(f"positives/{filename}.jpg 1 {x1} {y1} {x2} {y2} \n")
+            file.write(f"positives/{filename}.jpg 1 {x1} {y1} {width} {height} \n")

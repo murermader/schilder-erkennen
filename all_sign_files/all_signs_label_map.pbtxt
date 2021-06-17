@@ -1,0 +1,25 @@
+item {
+    name: "priority road sign",
+    id: 1,
+    display_name: "priority road sign"
+}
+item {
+    name: "speed sign 30",
+    id: 2,
+    display_name: "speed sign 30"
+}
+item {
+    name: "speed sign 50",
+    id: 3,
+    display_name: "speed sign 50"
+}
+item {
+    name: "speed sign 70",
+    id: 4,
+    display_name: "speed sign 70"
+}
+item {
+    name: "stop sign",
+    id: 5,
+    display_name: "stop sign"
+}
